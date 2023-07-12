@@ -1,5 +1,4 @@
 <div id="header" align="center">
-    <img src="https://lcarhuachagua.github.io/assets/images/photo-principal.png" width="200"/>
     <h1 align="center">Hi 👋 My name is Roselli 🤗</h1>
     <h3 align="center">A passionate web fullstack developer from Peru. Currently, I'm studying in the last stage of my career professional. </h3>
 </div>
