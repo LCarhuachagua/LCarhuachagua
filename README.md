@@ -8,7 +8,7 @@
 <div>
     <ul>
         <li>👩‍💻 I am regularly learning something new in IT.</li>
-        <li>💬 Ask me about <b>Python, JavaSrcipt, WebServices, SQL.</b></li>
+        <li>💬 Ask me about <b>Python, JavaScript, WebServices, SQL.</b></li>
         <li>✍ How to reach me <b>roselyn199206@gmail.com</b></li>
         <li>🌱 I'm currently learning on <b>IA, Django, Vue</b></li>
         <li>💻 Social Network <a href="https://www.linkedin.com/in/carhuachaguaroselli/">Roselli-in-LinkedIn</a></li>
