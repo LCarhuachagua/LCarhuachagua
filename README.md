@@ -8,9 +8,9 @@
 <div>
     <ul>
         <li>👩‍💻 I am regularly learning something new in IT.</li>
-        <li>💬 Ask me about <b>Python, JavaScript, WebServices, SQL.</b></li>
+        <li>💬 Ask me about <b>Python/Django, JavaScript, WebServices, SQL/MySql.</b></li>
         <li>✍ How to reach me <b>roselyn199206@gmail.com</b></li>
-        <li>🌱 I'm currently learning on <b>IA, Django, Vue</b></li>
+        <li>🌱 I'm currently learning on <b>IA, Vue3/Vuetify</b></li>
         <li>💻 Social Network <a href="https://www.linkedin.com/in/carhuachaguaroselli/">Roselli-in-LinkedIn</a></li>
     </ul>
 </div>
@@ -21,7 +21,7 @@
     <tr>
         <td>
             <ul>
-                <li>Python</li>
+                <li>Python / Django</li>
                 <li>Javascript</li>
                 <li>C++ / C#</li>
                 <li>HTML5 / CSS</li>
@@ -30,10 +30,10 @@
         </td>
         <td>
             <ul>
-                <li>Bootstrap</li>
+                <li>Bootstrap/Material Design</li>
                 <li>Google Charts</li>
                 <li>Api Gmail</li>
-                <li>FastApi</li>
+                <li>FastApi / Django</li>
                 <li>Gradio / Pandas</li>
             </ul>
         </td>
