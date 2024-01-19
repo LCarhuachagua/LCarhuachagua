@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1 align="center">Hi 👋 My name is Roselli 🤗</h1>
-    <h3 align="center">A passionate web fullstack developer from Peru. Currently, I'm studying in the last stage of my career professional. </h3>
+    <h3 align="center">A passionate web fullstack developer from Peru. </h3>
 </div>
 
 ### 👩 About Me:
