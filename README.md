@@ -12,7 +12,7 @@
         <li>✍ How to reach me <b>roselyn199206@gmail.com</b></li>
         <li>🌱 I'm currently learning on <b>IA, Vue3/Vuetify</b></li>
         <li>💻 Social Network <a href="https://www.linkedin.com/in/carhuachaguaroselli/">Roselli-in-LinkedIn</a></li>
-        <li>💻 My CV <a href="[https://www.linkedin.com/in/carhuachaguaroselli/">Roselli-in-LinkedIn](https://roselli-carhuachagua-cv.netlify.app/#/)</a></li>
+        <li>💻 My CV <a href="https://roselli-carhuachagua-cv.netlify.app/#/"> CV-Carhuachagua-Roselli</a></li>
     </ul>
 </div>
 
